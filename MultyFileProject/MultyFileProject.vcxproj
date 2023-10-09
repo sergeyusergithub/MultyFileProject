@@ -127,12 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DataBase.cpp" />
     <ClCompile Include="Functions.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Structurs.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Data.hpp" />
+    <ClInclude Include="DataBase.h" />
     <ClInclude Include="Functions.h" />
     <ClInclude Include="Structurs.hpp" />
   </ItemGroup>
